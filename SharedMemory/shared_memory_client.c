@@ -3,7 +3,9 @@
 /*Special Thanks to Dave Marshall for tutorials 
 https://users.cs.cf.ac.uk/Dave.Marshall/C/
 */
-
+/*
+Code below
+*/
 #include <sys/types.h>
 #include <sys/ipc.h>
 #include <sys/shm.h>
