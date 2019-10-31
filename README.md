@@ -10,6 +10,6 @@ There are three codes, all written in C. One is for Single Producer-Single Consu
 3. Implementation Of Make_Water Problem.
 It is an example of Process Synchronization where we need to form a Water Molecule using Two Hydrogen and One Oxygen Atom keeping the system deadlock free. There are two codes in this repository, one of them is deadlock prone and other is deadlock free.  
 
-4. Creating And Accessing Shared Memory.
+4. Creating And Accessing Shared Memory..
 Shared Memory is an efficeint means of passing data between programs. One program will create a memory portion which other processes (if permitted) can access. shared memory is memory that may be simultaneously accessed by multiple programs with an intent to provide communication among them or avoid redundant copies. 
 
